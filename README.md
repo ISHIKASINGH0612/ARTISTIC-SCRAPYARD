@@ -1,4 +1,4 @@
-<p text-align:center>
+<p align:justify>
 # ARTISTIC-SCRAPYARD
 Artistic Scrapyard is an e-commerce website that aims to be a platform where people can sell 
 their old or scrap items. From this website, an artist can buy those scrap items and customize 
