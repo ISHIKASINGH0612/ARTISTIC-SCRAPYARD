@@ -1,3 +1,4 @@
+<p>
 # ARTISTIC-SCRAPYARD
 Artistic Scrapyard is an e-commerce website that aims to be a platform where people can sell 
 their old or scrap items. From this website, an artist can buy those scrap items and customize 
@@ -13,4 +14,5 @@ And making use of the scarp materials by recycling them can save the planet. Now
 such issue we have to create awareness among every individual the benefits of recycling the 
 materials and understanding the benefits of scrap recycling is important to educate the students 
 about this subject as a learning process, by conducting the recycling event activities or special 
-projects
+projects.
+</p>
